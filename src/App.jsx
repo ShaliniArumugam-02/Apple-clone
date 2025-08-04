@@ -4,7 +4,7 @@ import Navbar from './components/Navbar/Navbar'
 import Hero from './components/Hero/Hero'
 import Product from './components/Product/Product'
 import Footer from './components/Footer/Footer'
-import VideoSection from './components/videoSection';
+import VideoSection from './components/VideoSection';
 
 
 function App() {
