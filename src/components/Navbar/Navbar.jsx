@@ -3,7 +3,7 @@ import { CiSearch } from "react-icons/ci";
 import { IoBagOutline } from "react-icons/io5";
 import { RxHamburgerMenu } from "react-icons/rx";
 import { IoClose } from "react-icons/io5";
-import MobileMenu from "./Mobilemenu";
+import MobileMenu from "./MobileMenu";
 import React, { useState } from "react";
 
 function Navbar() {
